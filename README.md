@@ -37,7 +37,13 @@ An AI-powered MCP server for value investors. Analyze stocks using principles fr
 
 #### Option 1: npx (Recommended)
 
-No installation required. Configure MCP directly:
+No installation required:
+
+```bash
+npx value-investing-agent
+```
+
+Or configure in your MCP client:
 
 ```json
 {

@@ -37,7 +37,13 @@
 
 #### 方式一：npx 直接运行（推荐）
 
-无需安装，直接配置 MCP：
+无需安装：
+
+```bash
+npx value-investing-agent
+```
+
+或在 MCP 客户端中配置：
 
 ```json
 {
