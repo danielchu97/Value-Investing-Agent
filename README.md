@@ -28,7 +28,9 @@ An AI-powered MCP server for value investors. Analyze stocks using principles fr
 ### Prerequisites
 
 - Node.js >= 18.0.0
-- Claude Desktop or Claude Code
+- Any MCP-compatible client (Claude Desktop, Claude Code, or your own application)
+
+> **Note:** This is a standalone MCP server that can run on Windows, macOS, or Linux. It can be used with any application that supports the [Model Context Protocol](https://modelcontextprotocol.io/), not just Claude products.
 
 ### Installation
 

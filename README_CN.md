@@ -28,7 +28,9 @@
 ### 环境要求
 
 - Node.js >= 18.0.0
-- Claude Desktop 或 Claude Code
+- 任意支持 MCP 协议的客户端（Claude Desktop、Claude Code 或你自己的应用）
+
+> **说明：** 这是一个独立的 MCP 服务器，可以在 Windows、macOS 或 Linux 上运行。它可以与任何支持 [Model Context Protocol](https://modelcontextprotocol.io/) 的应用配合使用，不仅限于 Claude 产品。
 
 ### 安装方式
 
