@@ -2,7 +2,7 @@
 
 # Value Investing Agent
 
-An AI-powered MCP server for value investors. Analyze stocks using principles from Benjamin Graham and Warren Buffett.
+An AI-powered MCP server for value investors. Analyze stocks using principles from Benjamin Graham and Warren Buffett. Every value investor deserves their own AI agent.
 
 > *"Price is what you pay. Value is what you get."* - Warren Buffett
 
